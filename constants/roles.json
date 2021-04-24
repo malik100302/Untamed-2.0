@@ -1,0 +1,12 @@
+{
+    "basic": {
+        "name": "Basic",
+        "cost": 500,
+        "emoji": "🏂"
+    },
+    "advanced": {
+        "name": "Advanced",
+        "cost": 1000,
+        "emoji": "🪃"
+    }
+}
