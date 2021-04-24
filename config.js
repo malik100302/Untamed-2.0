@@ -1,7 +1,6 @@
 module.exports = {
   developer: 'Anigami',
   ownerID: '197673134885699585',
-  token: 'ODM1NDMzMDQyOTA2MTg1NzY4.YIPXpw.QoE3s7_jGEiyyRwOlNnvFTsyJpw',
   prefix: '!',
   mongodburi: 'mongodb+srv://anigami:Aa561197@cluster0.qoobr.mongodb.net/christian?retryWrites=true&w=majority',
   database: 'christian',
